@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://www.techdailypro.com/wp-content/uploads/2021/08/inbound8039255466429917916.jpg);
+}
+
+#welcome{
+    background-image: url(https://www.techdailypro.com/wp-content/uploads/2021/08/inbound8039255466429917916.jpg);
+    height: 1250px;
+    width: 1500px;
+}
+
+#phrase  {
+    font-weight: bolder;
+    color: red;
+    font-style: italic;
+    margin-top: 50px ;
+    text-align: center;
+}
+
+#phrase_teller{
+    font-weight: bolder;
+    color: red;
+    font-style: italic;
+    margin-top: 50px ;
+    text-align: right;
+}
