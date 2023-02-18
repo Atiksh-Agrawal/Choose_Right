@@ -1,0 +1,79 @@
+body{
+    background-color:darkgray  ;
+}
+
+#welcome{
+    background-image: url(https://www.techdailypro.com/wp-content/uploads/2021/08/inbound8039255466429917916.jpg);
+    height: 1200px;
+    width: 1525px;
+}
+
+#science{
+    background-image: url(https://thumbs.dreamstime.com/b/seamless-illustration-theme-science-inventions-diagrams-charts-equipment-simple-contour-icons-dark-blue-ou-96599647.jpg);
+    height: 1500px;
+    width: 1525px;   
+}
+
+#commerce{
+    background-image: url(https://as1.ftcdn.net/v2/jpg/02/32/78/62/1000_F_232786271_k6UtuULX9cuSH9mRUZ8sZ6yf8GTi7Uph.jpg);
+    height: 1500px;
+    width: 1525px;   
+}
+
+._{
+   font-weight: bolder; 
+   text-align: center;
+   color:darkgreen;
+   font-size: 50px;
+}
+
+.phrase  {
+    font-weight: bolder;
+    color:chartreuse;
+    font-style: italic;
+    text-align: center;
+}
+
+#phrase_teller{
+    font-weight: bolder;
+    color:chartreuse;
+    font-style: italic;
+    margin-top: 50px ;
+   margin-left: 1000px;
+}
+
+.intro{
+    font-weight:bolder;
+    color: rgb(0, 0, 0); 
+    margin-top: 30px;
+    font-size: 45px;
+    font-style: italic;
+    text-align: right;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: fit-content;
+}
+
+.science_intro{
+    font-weight:bolder;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+    width: fit-content;  
+}
+
+.dropdown-item{
+    font-weight: bold;
+}
+
+.Line {
+    height: 6px;
+    background-color: #000;
+    width: 225px;
+    margin: 5px auto;
+}
+
+.dropdown{
+    text-align: center;
+}
